@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+.heading-container {
+  width: 80%;
+  height: 100%;
+  border-radius: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
+h1 {
+  font-size: 24pt;
+}
+.display-subheading {
+  font-weight: 200;
+  font-size: 18pt;
+}
+.heading-container img {
+  width: 99%;
+  border-radius: 25px;
+}
+@media only screen and (min-width: 700px) {
+  .heading-container img {
+    width: 20%;
+  }
+}
