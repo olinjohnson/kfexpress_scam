@@ -18,6 +18,9 @@ var matrixText = [
   "Uploading files - #####.......... 33%",
   "Re-encrypting hard drive SHA-256 ... 21%",
   "Partitioning disk space - overwriting files ...",
+  "Location data detected",
+  "Notifying local terrorist cell ... 100%",
+  "Missiles inbound ...",
   "Ready to lock device on command",
   "All set, awaiting further instruction - 200",
 ];
