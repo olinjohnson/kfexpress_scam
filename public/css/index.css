@@ -17,7 +17,7 @@ body {
   height: 100%;
   padding-top: 0px;
   padding-bottom: 20px;
-  opacity: 75%;
+  opacity: 85%;
   border-radius: 33px;
   background-color: #262626;
   overflow: hidden;
@@ -47,15 +47,7 @@ a:focus {
   background-color: rgb(30, 255, 0);
   width: 100%;
   margin: 0px;
-} /*
-.topbar:after {
-  content: "\00d7 \00A0 \00A0–";
-  color: black;
-  font-size: 30pt;
-  position: relative;
-  left: 20px;
-  bottom: 12.5px;
-}*/
+}
 .topbar p {
   color: black;
   font-size: 22pt;
