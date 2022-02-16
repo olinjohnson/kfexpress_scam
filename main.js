@@ -24,11 +24,7 @@ const io = socket(server);
 io.on("connection", (client) => {
   views++;
   console.log(
-    "Client connected " +
-      client.request.connection.remoteAddress +
-      " " +
-      views +
-      " Views"
+    `Connection ${client.handshake.address} | Views: ${views} | ID: ${client.id} | ${client.handshake.time} | ${client.handshake.headers["user-agent"]}`
   );
   connections.push(client);
 });
