@@ -19,9 +19,16 @@ const server = app.listen(port, () => {
 });
 
 var connections = [];
+var views = 0;
 const io = socket(server);
 io.on("connection", (client) => {
-  console.log("Client connected");
+  views++;
+  console.log(
+    "Client connected " +
+      client.request.connection.remoteAddress +
+      " " +
+      views +
+      " Views"
+  );
   connections.push(client);
-  console.log(connections);
 });
