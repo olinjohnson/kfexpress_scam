@@ -60,4 +60,6 @@ function close() {
 document.addEventListener("DOMContentLoaded", () => {
   var tw = new Typewriter("helloworld", 150);
   tw.scroll(tw.speed, 0, 0);
+
+  var socket = io();
 });

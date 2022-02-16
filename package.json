@@ -10,8 +10,10 @@
   "author": "Programming club",
   "license": "ISC",
   "dependencies": {
+    "cloudflare-express": "^1.0.1",
     "ejs": "^3.1.6",
     "express": "^4.17.2",
-    "express-ejs-layouts": "^2.5.1"
+    "express-ejs-layouts": "^2.5.1",
+    "socket.io": "^4.4.1"
   }
 }
