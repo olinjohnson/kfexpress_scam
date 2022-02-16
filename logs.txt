@@ -1,0 +1,100 @@
+2022-02-16T21:34:46.829443+00:00 app[web.1]: Client connected ::ffff:10.1.56.181 57 Views
+2022-02-16T21:34:47.036554+00:00 app[web.1]: Client connected ::ffff:10.1.35.246 58 Views
+2022-02-16T21:34:47.265979+00:00 app[web.1]: Client connected ::ffff:10.1.18.243 59 Views
+2022-02-16T21:34:47.475904+00:00 app[web.1]: Client connected ::ffff:10.1.38.207 60 Views
+2022-02-16T21:34:47.678336+00:00 app[web.1]: Client connected ::ffff:10.1.60.60 61 Views
+2022-02-16T21:35:02.787733+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 62 Views
+2022-02-16T21:35:53.698847+00:00 app[web.1]: Client connected ::ffff:10.1.56.181 63 Views
+2022-02-16T21:36:10.961545+00:00 app[web.1]: Client connected ::ffff:10.1.87.183 64 Views
+2022-02-16T21:36:53.150188+00:00 app[web.1]: Client connected ::ffff:10.1.56.181 65 Views
+2022-02-16T21:36:55.291823+00:00 app[web.1]: Client connected ::ffff:10.1.33.48 66 Views
+2022-02-16T21:36:56.045635+00:00 app[web.1]: Client connected ::ffff:10.1.33.48 67 Views
+2022-02-16T21:36:56.760582+00:00 app[web.1]: Client connected ::ffff:10.1.33.48 68 Views
+2022-02-16T21:36:57.549211+00:00 app[web.1]: Client connected ::ffff:10.1.33.48 69 Views
+2022-02-16T21:36:58.353492+00:00 app[web.1]: Client connected ::ffff:10.1.33.48 70 Views
+2022-02-16T21:37:02.704403+00:00 app[web.1]: Client connected ::ffff:10.1.49.235 71 Views
+2022-02-16T21:38:07.629401+00:00 app[web.1]: Client connected ::ffff:10.1.80.135 72 Views
+2022-02-16T21:38:17.262329+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 73 Views
+2022-02-16T21:38:20.988047+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 74 Views
+2022-02-16T21:38:34.817165+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 75 Views
+2022-02-16T21:38:37.375051+00:00 app[web.1]: Client connected ::ffff:10.1.30.200 76 Views
+2022-02-16T21:38:38.085490+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 77 Views
+2022-02-16T21:38:38.692083+00:00 app[web.1]: Client connected ::ffff:10.1.80.135 78 Views
+2022-02-16T21:38:38.879683+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 79 Views
+2022-02-16T21:38:39.133866+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 80 Views
+2022-02-16T21:38:39.284538+00:00 app[web.1]: Client connected ::ffff:10.1.21.237 81 Views
+2022-02-16T21:38:39.480567+00:00 app[web.1]: Client connected ::ffff:10.1.80.135 82 Views
+2022-02-16T21:38:39.659664+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 83 Views
+2022-02-16T21:38:39.856174+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 84 Views
+2022-02-16T21:38:40.107105+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 85 Views
+2022-02-16T21:38:40.272430+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 86 Views
+2022-02-16T21:38:40.729862+00:00 app[web.1]: Client connected ::ffff:10.1.80.135 87 Views
+2022-02-16T21:38:40.921648+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 88 Views
+2022-02-16T21:38:41.238961+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 89 Views
+2022-02-16T21:38:46.403956+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 90 Views
+2022-02-16T21:38:50.310780+00:00 app[web.1]: Client connected ::ffff:10.1.30.200 91 Views
+2022-02-16T21:51:21.000000+00:00 app[api]: Build started by user olinlj@icloud.com
+2022-02-16T21:51:37.917325+00:00 app[api]: Release v9 created by user olinlj@icloud.com
+2022-02-16T21:51:37.917325+00:00 app[api]: Deploy 3d6daf64 by user olinlj@icloud.com
+2022-02-16T21:51:38.000000+00:00 app[api]: Build succeeded
+2022-02-16T21:51:39.075371+00:00 app[web.1]: Error waiting for process to terminate: No child processes
+2022-02-16T21:51:41.417423+00:00 app[web.1]: [heroku-exec] Starting
+2022-02-16T21:51:41.570812+00:00 app[web.1]: Server listening on port 47827
+2022-02-16T21:52:19.882603+00:00 app[web.1]: [heroku-exec] Starting
+2022-02-16T21:52:20.126063+00:00 app[web.1]: Server listening on port 21161
+2022-02-16T21:57:36.118562+00:00 app[web.1]: Connection ::ffff:10.1.91.207 | Views: 1 | ID: sjJW-E-5sxTZbjvzAAAB | Wed Feb 16 2022 21:57:36 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T21:59:32.763357+00:00 app[web.1]: [heroku-exec] Starting
+2022-02-16T21:59:32.930324+00:00 app[web.1]: Server listening on port 12591
+2022-02-16T21:59:35.341587+00:00 app[web.1]: Connection ::ffff:10.1.45.150 | Views: 1 | ID: -0LmzT2BRawcRyQkAAAB | Wed Feb 16 2022 21:59:35 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:00:31.671203+00:00 app[web.1]: Connection ::ffff:10.1.45.150 | Views: 2 | ID: MNU_Tl0UR_oKjFzHAAAD | Wed Feb 16 2022 22:00:31 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
+2022-02-16T22:01:05.729347+00:00 app[web.1]: Connection ::ffff:10.1.57.201 | Views: 3 | ID: qSAL5QLRr2LTBn3TAAAF | Wed Feb 16 2022 22:01:05 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:01:59.000000+00:00 app[api]: Build started by user olinlj@icloud.com
+2022-02-16T22:02:00.947135+00:00 app[web.1]: Connection ::ffff:10.1.63.145 | Views: 4 | ID: qm1YdroxnQlpbVqYAAAH | Wed Feb 16 2022 22:02:00 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:02:16.375276+00:00 app[api]: Release v10 created by user olinlj@icloud.com
+2022-02-16T22:02:16.375276+00:00 app[api]: Deploy 4aea426e by user olinlj@icloud.com
+2022-02-16T22:02:17.000000+00:00 app[api]: Build succeeded
+2022-02-16T22:02:17.448804+00:00 app[web.1]: Error waiting for process to terminate: No child processes
+2022-02-16T22:02:20.540402+00:00 app[web.1]: [heroku-exec] Starting
+2022-02-16T22:02:20.702964+00:00 app[web.1]: Server listening on port 46088
+2022-02-16T22:02:22.422446+00:00 app[web.1]: Connection ::ffff:10.1.57.201 | Views: 1 | ID: yqbsT9gBK2Mf2ZxIAAAB | Wed Feb 16 2022 22:02:22 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:03:58.000000+00:00 app[api]: Build started by user olinlj@icloud.com
+2022-02-16T22:03:58.581665+00:00 app[web.1]: Connection ::ffff:10.1.43.222 | Views: 2 | ID: fBPddFyuyEyiYqnMAAAD | Wed Feb 16 2022 22:03:58 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:04:02.239675+00:00 app[web.1]: Connection ::ffff:10.1.43.222 | Views: 3 | ID: 2YBP3w_D8_qldtO7AAAF | Wed Feb 16 2022 22:04:02 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:04:03.763077+00:00 app[web.1]: Connection ::ffff:10.1.47.120 | Views: 4 | ID: dQdYZnjwS6ySxtmpAAAH | Wed Feb 16 2022 22:04:03 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:04:04.436519+00:00 app[web.1]: Connection ::ffff:10.1.47.120 | Views: 5 | ID: z-sPmf54zdjeZttWAAAJ | Wed Feb 16 2022 22:04:04 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:04:05.187145+00:00 app[web.1]: Connection ::ffff:10.1.47.120 | Views: 6 | ID: iWa4_L9sLvu04C_3AAAL | Wed Feb 16 2022 22:04:05 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:04:05.693771+00:00 app[web.1]: Connection ::ffff:10.1.22.189 | Views: 7 | ID: YREQUvq-JMIz-w9cAAAN | Wed Feb 16 2022 22:04:05 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:04:06.256342+00:00 app[web.1]: Connection ::ffff:10.1.47.120 | Views: 8 | ID: QU01-SyCOKOSjzFZAAAP | Wed Feb 16 2022 22:04:06 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:04:16.427712+00:00 app[api]: Release v11 created by user olinlj@icloud.com
+2022-02-16T22:04:16.427712+00:00 app[api]: Deploy c66bb827 by user olinlj@icloud.com
+2022-02-16T22:04:17.000000+00:00 app[api]: Build succeeded
+2022-02-16T22:04:21.585580+00:00 app[web.1]: [heroku-exec] Starting
+2022-02-16T22:04:21.807246+00:00 app[web.1]: Server listening on port 18907
+2022-02-16T22:04:24.070578+00:00 app[web.1]: Connection ::ffff:10.1.22.189 | Views: 1 | ID: Wrzg7H7WX97kznxpAAAC | Wed Feb 16 2022 22:04:24 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:04:30.563434+00:00 app[web.1]: Connection ::ffff:10.1.21.237 | Views: 2 | ID: 6RmC4q8zTodD35bfAAAE | Wed Feb 16 2022 22:04:30 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:96.0) Gecko/20100101 Firefox/96.0
+2022-02-16T22:05:01.698161+00:00 app[web.1]: [heroku-exec] Starting
+2022-02-16T22:05:01.849070+00:00 app[web.1]: Server listening on port 51638
+2022-02-16T22:05:03.329560+00:00 app[web.1]: Connection ::ffff:10.1.36.164 | Views: 1 | ID: rGE7RQklSjwfyUNJAAAB | Wed Feb 16 2022 22:05:03 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:05:03.959953+00:00 app[web.1]: Connection ::ffff:10.1.21.237 | Views: 2 | ID: bvhL3vD8G0PRxFaaAAAD | Wed Feb 16 2022 22:05:03 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:96.0) Gecko/20100101 Firefox/96.0
+2022-02-16T22:06:21.919942+00:00 app[web.1]: Connection ::ffff:10.1.18.101 | Views: 3 | ID: MAqfQD1gOlyjhACJAAAF | Wed Feb 16 2022 22:06:21 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:96.0) Gecko/20100101 Firefox/96.0
+2022-02-16T22:07:09.529224+00:00 app[web.1]: Connection ::ffff:10.1.90.58 | Views: 4 | ID: SJPwmw9CryfDyjvyAAAH | Wed Feb 16 2022 22:07:09 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:21.869370+00:00 app[web.1]: Connection ::ffff:10.1.31.12 | Views: 5 | ID: uMnhoJg0miUMNDQAAAAJ | Wed Feb 16 2022 22:07:21 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:22.031417+00:00 app[web.1]: Connection ::ffff:10.1.31.12 | Views: 6 | ID: fNjYJIH2h3FkZ7KJAAAL | Wed Feb 16 2022 22:07:22 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:22.222038+00:00 app[web.1]: Connection ::ffff:10.1.31.12 | Views: 7 | ID: lTnKlY1a0B-G3TgJAAAN | Wed Feb 16 2022 22:07:22 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:22.397421+00:00 app[web.1]: Connection ::ffff:10.1.31.12 | Views: 8 | ID: Kq0ImtgWfl6unqowAAAP | Wed Feb 16 2022 22:07:22 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:22.595884+00:00 app[web.1]: Connection ::ffff:10.1.43.222 | Views: 9 | ID: u1oh8OVeYu62y9l2AAAR | Wed Feb 16 2022 22:07:22 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:22.817299+00:00 app[web.1]: Connection ::ffff:10.1.90.58 | Views: 10 | ID: nhUhJhTqwM4g6FW4AAAT | Wed Feb 16 2022 22:07:22 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:22.966627+00:00 app[web.1]: Connection ::ffff:10.1.31.12 | Views: 11 | ID: Vd8IPJmwLmua9wqLAAAV | Wed Feb 16 2022 22:07:22 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:23.161913+00:00 app[web.1]: Connection ::ffff:10.1.31.12 | Views: 12 | ID: GpJmJ-dqM-N2hJzcAAAX | Wed Feb 16 2022 22:07:23 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:23.370789+00:00 app[web.1]: Connection ::ffff:10.1.31.12 | Views: 13 | ID: O9SnFenySXqvTyAYAAAZ | Wed Feb 16 2022 22:07:23 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:23.556606+00:00 app[web.1]: Connection ::ffff:10.1.31.12 | Views: 14 | ID: Kwy9ShfJ73HuzpT1AAAb | Wed Feb 16 2022 22:07:23 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:23.766595+00:00 app[web.1]: Connection ::ffff:10.1.49.207 | Views: 15 | ID: _3JAz6umzw-7gsFjAAAd | Wed Feb 16 2022 22:07:23 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:23.957632+00:00 app[web.1]: Connection ::ffff:10.1.31.12 | Views: 16 | ID: dBnMOKQ4iBfLbvHQAAAf | Wed Feb 16 2022 22:07:23 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:07:24.179026+00:00 app[web.1]: Connection ::ffff:10.1.31.12 | Views: 17 | ID: ToAGYrfXKWHlWTrSAAAh | Wed Feb 16 2022 22:07:24 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+2022-02-16T22:12:32.739660+00:00 app[web.1]: Connection ::ffff:10.1.18.101 | Views: 18 | ID: eu0itIU8QvdHbf0qAAAj | Wed Feb 16 2022 22:12:32 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-16T22:12:33.940869+00:00 app[web.1]: Connection ::ffff:10.1.18.101 | Views: 19 | ID: 5YOP9HQkzVGQvrzaAAAl | Wed Feb 16 2022 22:12:33 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-16T22:12:40.630108+00:00 app[web.1]: Connection ::ffff:10.1.18.101 | Views: 20 | ID: mFNXQNrM_OLTQH5ZAAAn | Wed Feb 16 2022 22:12:40 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-16T22:12:46.107277+00:00 app[web.1]: Connection ::ffff:10.1.18.101 | Views: 21 | ID: MwSfditD_DyRKgxmAAAp | Wed Feb 16 2022 22:12:46 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-16T23:04:35.982198+00:00 app[web.1]: [heroku-exec] Starting
+2022-02-16T23:04:36.177275+00:00 app[web.1]: Server listening on port 51477
+2022-02-16T23:04:38.184099+00:00 app[web.1]: Connection ::ffff:10.1.82.201 | Views: 1 | ID: yRiSwThXErci-PPCAAAB | Wed Feb 16 2022 23:04:38 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15

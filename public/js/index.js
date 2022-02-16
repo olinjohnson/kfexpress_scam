@@ -54,7 +54,8 @@ class Typewriter {
 }
 
 function close() {
-  document.querySelector("heading-container").style.visibility = "hidden";
+  console.log("hi");
+  document.querySelector(".heading-container").style.visibility = "hidden";
 }
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -63,3 +64,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
   var socket = io();
 });
+
+document.getElementById("buttons").onclick = close;
