@@ -6,8 +6,6 @@ const app = express();
 
 const homeController = require("./controllers/homecontroller.js");
 
-app.use(cloudflare.restore());
-
 app.set("view engine", "ejs");
 app.use(express.static("public"));
 app.use(layouts);
