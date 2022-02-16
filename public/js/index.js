@@ -58,7 +58,7 @@ function close() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  var tw = new Typewriter("helloworld", 150);
+  var tw = new Typewriter("helloworld", 75);
   tw.scroll(tw.speed, 0, 0);
 
   var socket = io();
