@@ -1,26 +1,3 @@
-2022-02-16T21:34:46.829443+00:00 app[web.1]: Client connected ::ffff:10.1.56.181 57 Views
-2022-02-16T21:34:47.036554+00:00 app[web.1]: Client connected ::ffff:10.1.35.246 58 Views
-2022-02-16T21:34:47.265979+00:00 app[web.1]: Client connected ::ffff:10.1.18.243 59 Views
-2022-02-16T21:34:47.475904+00:00 app[web.1]: Client connected ::ffff:10.1.38.207 60 Views
-2022-02-16T21:34:47.678336+00:00 app[web.1]: Client connected ::ffff:10.1.60.60 61 Views
-2022-02-16T21:35:02.787733+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 62 Views
-2022-02-16T21:35:53.698847+00:00 app[web.1]: Client connected ::ffff:10.1.56.181 63 Views
-2022-02-16T21:36:10.961545+00:00 app[web.1]: Client connected ::ffff:10.1.87.183 64 Views
-2022-02-16T21:36:53.150188+00:00 app[web.1]: Client connected ::ffff:10.1.56.181 65 Views
-2022-02-16T21:36:55.291823+00:00 app[web.1]: Client connected ::ffff:10.1.33.48 66 Views
-2022-02-16T21:36:56.045635+00:00 app[web.1]: Client connected ::ffff:10.1.33.48 67 Views
-2022-02-16T21:36:56.760582+00:00 app[web.1]: Client connected ::ffff:10.1.33.48 68 Views
-2022-02-16T21:36:57.549211+00:00 app[web.1]: Client connected ::ffff:10.1.33.48 69 Views
-2022-02-16T21:36:58.353492+00:00 app[web.1]: Client connected ::ffff:10.1.33.48 70 Views
-2022-02-16T21:37:02.704403+00:00 app[web.1]: Client connected ::ffff:10.1.49.235 71 Views
-2022-02-16T21:38:07.629401+00:00 app[web.1]: Client connected ::ffff:10.1.80.135 72 Views
-2022-02-16T21:38:17.262329+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 73 Views
-2022-02-16T21:38:20.988047+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 74 Views
-2022-02-16T21:38:34.817165+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 75 Views
-2022-02-16T21:38:37.375051+00:00 app[web.1]: Client connected ::ffff:10.1.30.200 76 Views
-2022-02-16T21:38:38.085490+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 77 Views
-2022-02-16T21:38:38.692083+00:00 app[web.1]: Client connected ::ffff:10.1.80.135 78 Views
-2022-02-16T21:38:38.879683+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 79 Views
 2022-02-16T21:38:39.133866+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 80 Views
 2022-02-16T21:38:39.284538+00:00 app[web.1]: Client connected ::ffff:10.1.21.237 81 Views
 2022-02-16T21:38:39.480567+00:00 app[web.1]: Client connected ::ffff:10.1.80.135 82 Views
@@ -98,3 +75,34 @@
 2022-02-16T23:04:35.982198+00:00 app[web.1]: [heroku-exec] Starting
 2022-02-16T23:04:36.177275+00:00 app[web.1]: Server listening on port 51477
 2022-02-16T23:04:38.184099+00:00 app[web.1]: Connection ::ffff:10.1.82.201 | Views: 1 | ID: yRiSwThXErci-PPCAAAB | Wed Feb 16 2022 23:04:38 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-16T23:21:03.000000+00:00 app[api]: Build started by user olinlj@icloud.com
+2022-02-16T23:21:20.000000+00:00 app[api]: Build succeeded
+2022-02-16T23:21:20.206312+00:00 app[api]: Release v12 created by user olinlj@icloud.com
+2022-02-16T23:21:20.206312+00:00 app[api]: Deploy 8a290afa by user olinlj@icloud.com
+2022-02-16T23:21:24.333860+00:00 app[web.1]: [heroku-exec] Starting
+2022-02-16T23:21:24.487071+00:00 app[web.1]: Server listening on port 40677
+2022-02-16T23:22:24.000000+00:00 app[api]: Build started by user olinlj@icloud.com
+2022-02-16T23:22:39.624649+00:00 app[api]: Deploy cb97b54c by user olinlj@icloud.com
+2022-02-16T23:22:39.624649+00:00 app[api]: Release v13 created by user olinlj@icloud.com
+2022-02-16T23:22:40.000000+00:00 app[api]: Build succeeded
+2022-02-16T23:22:44.258855+00:00 app[web.1]: [heroku-exec] Starting
+2022-02-16T23:22:44.426270+00:00 app[web.1]: Server listening on port 4567
+2022-02-16T23:24:57.588894+00:00 app[web.1]: Connection ::ffff:10.1.90.58 | Views: 1 | ID: WY38GIIn-nzGC4rJAAAB | Wed Feb 16 2022 23:24:57 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-16T23:25:27.582931+00:00 app[web.1]: Connection ::ffff:10.1.63.145 | Views: 2 | ID: qIJhi3l0YVkck1hbAAAD | Wed Feb 16 2022 23:25:27 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-16T23:25:31.876760+00:00 app[web.1]: Connection ::ffff:10.1.63.145 | Views: 3 | ID: tBq3L_DIVGtES8fzAAAF | Wed Feb 16 2022 23:25:31 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-16T23:25:36.244290+00:00 app[web.1]: Connection ::ffff:10.1.63.145 | Views: 4 | ID: _udgucd4C4H6NgBiAAAH | Wed Feb 16 2022 23:25:36 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-17T00:00:39.503938+00:00 app[web.1]: Error waiting for process to terminate: No child processes
+2022-02-17T00:20:31.316343+00:00 app[web.1]: [heroku-exec] Starting
+2022-02-17T00:20:31.525029+00:00 app[web.1]: Server listening on port 30976
+2022-02-17T00:20:33.478508+00:00 app[web.1]: Connection ::ffff:10.1.34.98 | Views: 1 | ID: MPkLPOeSmjgMbn3RAAAB | Thu Feb 17 2022 00:20:33 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-17T00:21:30.566240+00:00 app[web.1]: Connection ::ffff:10.1.38.230 | Views: 2 | ID: -tHUdYMZR9zaT9mJAAAD | Thu Feb 17 2022 00:21:30 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-17T00:22:20.991042+00:00 app[web.1]: Connection ::ffff:10.1.90.58 | Views: 3 | ID: IBWVESYHc6UMDpb8AAAF | Thu Feb 17 2022 00:22:20 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-17T00:50:00.108310+00:00 app[web.1]: Connection ::ffff:10.1.60.60 | Views: 4 | ID: cpCuuPb5lHR0RyhJAAAH | Thu Feb 17 2022 00:50:00 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
+2022-02-17T00:50:12.898872+00:00 app[web.1]: Connection ::ffff:10.1.19.160 | Views: 5 | ID: gaT4XUBD27Y5Qrc9AAAJ | Thu Feb 17 2022 00:50:12 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
+2022-02-17T00:50:15.608039+00:00 app[web.1]: Connection ::ffff:10.1.19.160 | Views: 6 | ID: XAS8L49ersZ6HYmEAAAL | Thu Feb 17 2022 00:50:15 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
+2022-02-17T00:50:19.368277+00:00 app[web.1]: Connection ::ffff:10.1.61.76 | Views: 7 | ID: ynBPrh6m1ojEha6hAAAN | Thu Feb 17 2022 00:50:19 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
+2022-02-17T00:50:23.789587+00:00 app[web.1]: Connection ::ffff:10.1.38.230 | Views: 8 | ID: Ce_VY7m35hi5DKf5AAAP | Thu Feb 17 2022 00:50:23 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
+2022-02-17T00:50:30.591790+00:00 app[web.1]: Connection ::ffff:10.1.87.24 | Views: 9 | ID: A-yj17EfVvPoQHZxAAAR | Thu Feb 17 2022 00:50:30 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
+2022-02-17T00:50:38.048101+00:00 app[web.1]: Connection ::ffff:10.1.45.150 | Views: 10 | ID: q2I2OLrG_3yOGzrAAAAT | Thu Feb 17 2022 00:50:38 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
+2022-02-17T00:53:22.501879+00:00 app[web.1]: Connection ::ffff:10.1.87.124 | Views: 11 | ID: X_RJrswf3cVH56U4AAAV | Thu Feb 17 2022 00:53:22 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:96.0) Gecko/20100101 Firefox/96.0
+2022-02-17T00:54:23.386819+00:00 app[web.1]: Connection ::ffff:10.1.82.219 | Views: 12 | ID: G1vxshOIj6ZfoSDvAAAX | Thu Feb 17 2022 00:54:23 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:96.0) Gecko/20100101 Firefox/96.0

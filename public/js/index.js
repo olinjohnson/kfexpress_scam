@@ -53,6 +53,10 @@ class Typewriter {
   }
 }
 
+function text(url) {
+  return fetch(url).then((res) => res.text());
+}
+
 function close() {
   console.log("hi");
   document.querySelector(".heading-container").style.visibility = "hidden";
@@ -63,6 +67,11 @@ document.addEventListener("DOMContentLoaded", () => {
   tw.scroll(tw.speed, 0, 0);
 
   var socket = io();
-});
+  document.getElementById("buttons").onclick = close;
 
-document.getElementById("buttons").onclick = close;
+  text("https://www.cloudflare.com/cdn-cgi/trace").then((data) => {
+    let ipRegex = /[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}/;
+    let ip = data.match(ipRegex)[0];
+    socket.emit("client-addr", ip);
+  });
+});
