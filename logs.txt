@@ -1,18 +1,3 @@
-2022-02-16T21:38:39.133866+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 80 Views
-2022-02-16T21:38:39.284538+00:00 app[web.1]: Client connected ::ffff:10.1.21.237 81 Views
-2022-02-16T21:38:39.480567+00:00 app[web.1]: Client connected ::ffff:10.1.80.135 82 Views
-2022-02-16T21:38:39.659664+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 83 Views
-2022-02-16T21:38:39.856174+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 84 Views
-2022-02-16T21:38:40.107105+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 85 Views
-2022-02-16T21:38:40.272430+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 86 Views
-2022-02-16T21:38:40.729862+00:00 app[web.1]: Client connected ::ffff:10.1.80.135 87 Views
-2022-02-16T21:38:40.921648+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 88 Views
-2022-02-16T21:38:41.238961+00:00 app[web.1]: Client connected ::ffff:10.1.29.5 89 Views
-2022-02-16T21:38:46.403956+00:00 app[web.1]: Client connected ::ffff:10.1.48.36 90 Views
-2022-02-16T21:38:50.310780+00:00 app[web.1]: Client connected ::ffff:10.1.30.200 91 Views
-2022-02-16T21:51:21.000000+00:00 app[api]: Build started by user olinlj@icloud.com
-2022-02-16T21:51:37.917325+00:00 app[api]: Release v9 created by user olinlj@icloud.com
-2022-02-16T21:51:37.917325+00:00 app[api]: Deploy 3d6daf64 by user olinlj@icloud.com
 2022-02-16T21:51:38.000000+00:00 app[api]: Build succeeded
 2022-02-16T21:51:39.075371+00:00 app[web.1]: Error waiting for process to terminate: No child processes
 2022-02-16T21:51:41.417423+00:00 app[web.1]: [heroku-exec] Starting
@@ -106,3 +91,14 @@
 2022-02-17T00:50:38.048101+00:00 app[web.1]: Connection ::ffff:10.1.45.150 | Views: 10 | ID: q2I2OLrG_3yOGzrAAAAT | Thu Feb 17 2022 00:50:38 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
 2022-02-17T00:53:22.501879+00:00 app[web.1]: Connection ::ffff:10.1.87.124 | Views: 11 | ID: X_RJrswf3cVH56U4AAAV | Thu Feb 17 2022 00:53:22 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:96.0) Gecko/20100101 Firefox/96.0
 2022-02-17T00:54:23.386819+00:00 app[web.1]: Connection ::ffff:10.1.82.219 | Views: 12 | ID: G1vxshOIj6ZfoSDvAAAX | Thu Feb 17 2022 00:54:23 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:96.0) Gecko/20100101 Firefox/96.0
+2022-02-17T01:09:34.000000+00:00 app[api]: Build started by user olinlj@icloud.com
+2022-02-17T01:09:50.463463+00:00 app[api]: Deploy 2faa4043 by user olinlj@icloud.com
+2022-02-17T01:09:50.463463+00:00 app[api]: Release v14 created by user olinlj@icloud.com
+2022-02-17T01:09:51.000000+00:00 app[api]: Build succeeded
+2022-02-17T01:09:52.135379+00:00 app[web.1]: Error waiting for process to terminate: No child processes
+2022-02-17T01:09:54.748812+00:00 app[web.1]: [heroku-exec] Starting
+2022-02-17T01:09:55.031927+00:00 app[web.1]: Server listening on port 51274
+2022-02-17T01:10:50.290191+00:00 app[web.1]: Connection IP: 74.77.164.130 | Views: 2 | ID: bb-ULc70O4jvO5hDAAAD | Thu Feb 17 2022 01:10:50 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:96.0) Gecko/20100101 Firefox/96.0
+2022-02-17T01:11:04.307102+00:00 app[web.1]: Connection IP: 2606:54c0 | Views: 3 | ID: zJDHQ9GlXBDoXqz2AAAF | Thu Feb 17 2022 01:11:04 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-17T01:11:05.840483+00:00 app[web.1]: Connection IP: 2606:54c0 | Views: 4 | ID: wOFcvjSI3ykZlczfAAAH | Thu Feb 17 2022 01:11:05 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+2022-02-17T01:11:46.175638+00:00 app[web.1]: Connection IP: 2a02:26f7 | Views: 5 | ID: OSgqUhdKq8pBR90fAAAJ | Thu Feb 17 2022 01:11:45 GMT+0000 (Coordinated Universal Time) | Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1

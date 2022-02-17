@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
   homeController.homePage(req, res);
 });
 
-const server = app.listen(port, () => {
+const server = app.listen(port, "0.0.0.0", () => {
   console.log(`Server listening on port ${port}`);
 });
 
@@ -26,7 +26,7 @@ io.on("connection", (client) => {
   connections.push(client);
   client.on("client-addr", (data) => {
     console.log(
-      `Connection IP: ${data} | Views: ${views} | ID: ${client.id} | ${client.handshake.time} | ${client.handshake.headers["user-agent"]}`
+      `Connection IPV4: ${data} | Views: ${views} | ID: ${client.id} | ${client.handshake.time}`
     );
   });
 });
